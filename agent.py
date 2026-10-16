@@ -19,6 +19,7 @@ import requests
 import time
 from dotenv import load_dotenv
 
+# hi shuhankar swain  100 
 load_dotenv()
 
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY", "")
